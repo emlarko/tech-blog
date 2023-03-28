@@ -3,11 +3,11 @@ const { Blog } = require('../models');
 const blogdata = [
     {
         "title": "Test Blog",
-        "description": "Test"
+        "description": "Test",
     },
     {
         "title": "Test Blog 2",
-        "description": "Another Test"
+        "description": "Another Test",
     }
 ];
 
