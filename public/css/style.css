@@ -11,3 +11,15 @@ body {
 .nav-link:hover {
     color: #D4F2BB;
 }
+
+.login{
+	margin-left: 25px;
+}
+
+.signup{
+	margin-left: 25px;
+}
+
+.form-group{
+	margin-top: 10px;
+}
