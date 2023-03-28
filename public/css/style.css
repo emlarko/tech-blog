@@ -1,5 +1,10 @@
 body {
-    font-family: 'Roboto Slab', serif;;
+    font-family: 'Roboto Slab', serif;
+    background-color: #D4F2BB;
+}
+
+main {
+    padding: 40px
 }
 
 .nav-link {
@@ -12,14 +17,80 @@ body {
     color: #D4F2BB;
 }
 
-.login{
-	margin-left: 25px;
-}
+.blogBox {
+    margin-top: 8px;
+    border: solid;
+    background-color: white;
+    border-radius: 25px;
+    border-color: white;
+  }
 
-.signup{
-	margin-left: 25px;
+.blogDesc {
+    border-style: solid;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    padding: 2px;
+  }
+  
+.blogCreate {
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px;
 }
-
+  
+.blogBoxCont {
+    margin-top: 10px;
+    border-radius: 25px;
+    border-style: solid;
+}
+  
+.formCont {
+    margin-top: 10px;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  
+.commentCont {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 75%;
+}
+  
+.commentOwner {
+    font-size: 14px;
+}
+  
+.btnComment {
+    margin-top: 10px;
+}
+  
+.commentText {
+    font-weight: bold;
+    padding-top: 10px;
+}
+  
+.commentCont {
+    background-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: white;
+}
+  
+.headerRow {
+    margin-bottom: 10px;
+}
+  
 .form-group{
-	margin-top: 10px;
+    margin-top: 10px;
+}
+
+.login-form {
+    max-width: 50%;
+}
+
+.signup-form {
+    max-width: 50%;
 }
