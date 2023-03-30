@@ -1,6 +1,14 @@
 [
     {
-      "username": "TestUser",
-      "password": "password"
+      "username": "schruteblog",
+      "password": "password123"
+    },
+    {
+      "username": "otisblogs",
+      "password": "password123"
+    },
+    {
+      "username": "babs",
+      "password": "password123"
     }
   ]

@@ -1,6 +1,17 @@
 [
     {
-      "title": "Test Blog",
-      "description": "Test"
+      "title": "Turing Saw the Future of Computing",
+      "description": "It’s all about data.",
+      "user_id": 1
+    },
+    {
+      "title": "Generative AI and the Future of Work",
+      "description": "Generative AI is bringing back the anxiety about jobs, especially the creative kind of jobs.",
+      "user_id": 2
+    },
+    {
+      "title": "Seeing Generative AI",
+      "description": "D-ID is developing the technological foundation for the next TikTok.",
+      "user_id": 3
     }
-  ]
+]
