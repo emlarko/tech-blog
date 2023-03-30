@@ -1,13 +1,16 @@
 [
     {
+      "id": 1,
       "username": "schruteblog",
       "password": "password123"
     },
     {
+      "id": 2,
       "username": "otisblogs",
       "password": "password123"
     },
     {
+      "id": 3,
       "username": "babs",
       "password": "password123"
     }
