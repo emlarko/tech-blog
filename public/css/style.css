@@ -28,6 +28,7 @@ main {
 .blogDesc {
     border-style: solid;
     border-radius: 25px;
+    background-color: white;
     margin-bottom: 5px;
     padding: 2px;
   }
@@ -41,6 +42,7 @@ main {
 .blogBoxCont {
     margin-top: 10px;
     border-radius: 25px;
+    background-color: white;
     border-style: solid;
 }
   
@@ -73,10 +75,9 @@ main {
 }
   
 .commentCont {
-    background-color: white;
+    background-color: #E5F4F4;
     border-style: solid;
     border-radius: 25px;
-    border-color: white;
 }
   
 .headerRow {
